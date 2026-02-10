@@ -43,14 +43,14 @@ Using **web scraping and exploratory data analysis (EDA)** techniques, the proje
 ---
 
 ## 📂 Repository Structure
-> Cars24-EDA-WebScraping-India/
-> │
-> ├── data/ # Dataset files
-> ├── notebooks/ # Web scraping and EDA notebooks
-├── presentation/ # Project presentation slides
-├── README.md # Project documentation
-├── requirements.txt # Required Python libraries
-└── .gitignore
+- Cars24-EDA-WebScraping-India/
+- │
+- ├── data/ # Dataset files
+- ├── notebooks/ # Web scraping and EDA notebooks
+- ├── presentation/ # Project presentation slides
+- ├── README.md # Project documentation
+- ├── requirements.txt # Required Python libraries
+- └── .gitignore
 
 
 ---
